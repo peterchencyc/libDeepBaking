@@ -1,13 +1,13 @@
 # deep-baking
 This is a [Keras](https://keras.io) implentation of the genearitve deep learning baking paper:
 
-[representative images]
-
 Visual modeling of laser-induced dough browning. Journal of Food Engineering, 243, 9-21.
 https://doi.org/10.1016/j.jfoodeng.2018.08.022
 
 Peter Yichen Chen, Jonathan David Blutinger, Yorán Meijers, Changxi Zheng, Eitan Grinspun, and Hod Lipson
 
+<img src="imgs/rendered.png" width="1024px"/>
+<img src="imgs/interpolation.png" width="1024px"/>
 
 ## Train
 ```bash
