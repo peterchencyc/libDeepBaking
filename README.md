@@ -1,4 +1,4 @@
-# deep-baking
+# libDeepBaking
 This is a [Keras](https://keras.io) implentation of the genearitve deep learning baking paper:
 
 Visual modeling of laser-induced dough browning. Journal of Food Engineering, 243, 9-21.
